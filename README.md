@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hello Fellas 👋
+
+<div>
+  <a href="https://github.com/artpimentel">
+  <img height="180em" src="https://github.com-readme-stats.vertical.app/api?username=artpimentel&show_icons=true&theme=dracula&include_all_commits=true&count_private=truee"/>
+</div>
 
 <!--
 **artpimentel/artpimentel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -11,6 +16,4 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
