@@ -2,7 +2,7 @@
 
 <div>
   <a href="https://github.com/artpimentel">
-  <img height="180em" src="https://github.com-readme-stats.vertical.app/api?username=artpimentel&show_icons=true&theme=dracula&include_all_commits=true&count_private=truee"/>
+  <img height="180em" src="https://github.com-readme-stats.vertical.app/api?username=artpimentel&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 <!--
